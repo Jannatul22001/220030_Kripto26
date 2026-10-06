@@ -112,7 +112,7 @@ Bit pesan ke-0 ditulis di `posisi[0]`, bit ke-1 di `posisi[1]`, dan seterusnya. 
 
 ![Encode teks](screenshots/01_encode_teks.png)
 
-### Encode teks
+### Encode pesan
 
 ![Encode teks](screenshots/02_encode_pesantxt.png)
 
